@@ -3,9 +3,11 @@ ugly but functional roku remote in python
 
 
 it needs the roku libraries so do a
+
 pip install roku
 
 and i made it work with windows with pyinsstaller so do a
+
 pip install pyinstaller
 
 and then a
