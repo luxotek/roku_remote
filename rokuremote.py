@@ -1,7 +1,7 @@
 import tkinter as tk
 from roku import Roku
 
-roku = Roku('192.168.0.180')
+roku = Roku('CHANGE THIS TO YOUR ROKU IP')
 root= tk.Tk()
 
 canvas1 = tk.Canvas(root, width = 200, height = 300, bg='black')
