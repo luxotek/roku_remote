@@ -6,7 +6,7 @@ it needs the roku libraries so do a
 
 pip install roku
 
-and i made it work with windows with pyinsstaller so do a
+and i made it work with windows with pyinstaller so do a
 
 pip install pyinstaller
 
